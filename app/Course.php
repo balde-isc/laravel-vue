@@ -42,4 +42,8 @@ class Course extends Model
     const PUBLISHED = 1;
     const PENDING = 2;
     const REJECTED = 3;
+
+    public function category(){
+
+    }
 }
